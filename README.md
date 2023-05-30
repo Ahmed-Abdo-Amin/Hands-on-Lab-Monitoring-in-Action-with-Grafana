@@ -208,7 +208,7 @@ Now you can create your first dashboard. For this lab, you will use a precreated
 This completes importing a dashboard. Next you will see what the dashboard allows you to monitor.
 
 
-## <img src="./images/Step-7.png" width='60'> View the Dashboard: 
+## <img src="./images/Step7.jpg" width='60'> View the Dashboard: 
 
 You should now see the General / Node Exporter Full dashboard which shows CPU Busy, Sys Load, RAM used and other information. This dashboard will allow you to get a broad overview of how the system is performing, as well as drilling down into individual nodes to see how they are performing. Now, try a few things out.
 
